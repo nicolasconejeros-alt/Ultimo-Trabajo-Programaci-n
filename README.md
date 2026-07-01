@@ -1,2 +1,12 @@
-# Ultimo-Trabajo-Programacion
-trabajo de programacion sobre importar librerias, entre otros
+
+# Proyecto uno
+
+## subtitulo
+
+Este proyecto final se creo en streamlit y utiliza la plataforma GitHub
+
+- Stremlit
+- GitHub
+- Csv
+
+Entre otros
